@@ -1,0 +1,1 @@
+Images are stored in public/assets for this Vite app. Add the six product images there as listed in public/assets/README.txt
